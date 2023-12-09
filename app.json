@@ -38,5 +38,10 @@
       "required": true,
       "value": ""
     }
+    "MUST_JOIN": {
+      "description": "Add username/id of a channel/group",
+      "required": false,
+      "value": ""
+    }
   }
 }
